@@ -1,0 +1,62 @@
+﻿@model ResultViewModel;
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="row">
+    <div class="col-md-6">
+        <h1> Short audio</h1>
+        <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="ShortAudio">
+            <div class="input-group mb-3">
+                <div class="custom-file">
+                    <input type="file" name="files" class="custom-file-input" id="inputGroupFile01" multiple/>
+                    <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+                </div>
+                <div class="input-group-append">
+                    <input type="submit" class="input-group-text" value="Upload"/>
+                </div>
+            </div>
+        </form>
+
+        <h1>Long audio</h1>
+        <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="LongAudio">
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" placeholder="GCS uri" aria-label="GCS uri" name="gcsUri" id="gcsUri" aria-describedby="basic-addon2">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary" type="submit">Go !!</button>
+                </div>
+            </div>
+        </form>
+
+        <h1>From Video</h1>
+        <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="FromVideo">
+            <div class="input-group mb-3">
+                <div class="custom-file">
+                    <input type="file" name="file" class="custom-file-input" id="inputGroupFile02"/>
+                    <label class="custom-file-label" for="inputGroupFile02">Choose file</label>
+                </div>
+                <div class="input-group-append">
+                    <input type="submit" class="input-group-text" value="Upload"/>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-6">
+        <div class="card border-light">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col-md-6">Transcript</div>
+                    <div class="col-md-6">
+                        <input class="form-control" type="text" name="search" id="searchBox" placeholder="Enter your text" onkeyup="highlight()"/>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card-body">
+                @* <h5 class="card-title"></h5> *@
+                <p class="card-text" id="transcript">@Model?.Transcript</p>
+            </div>
+        </div>
+    </div>
+
+
+</div>

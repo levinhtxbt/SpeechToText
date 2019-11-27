@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="434f6f21-18b4-4ae1-b5b5-545f69c6af2f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VideoConverter/VideoConverter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Views/Home/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Models/PlayerViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB627C24-088B-4E56-8BD2-455727892AB1/2E/StorageClient.UploadObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Views/Player/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/dd/e9191468/TimeSpan.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VideoConverter/Conversion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Controllers/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8BEED016-3C80-4A0D-9659-6FFCA2B9D970/d5/b9bc0ce9/Conversion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8BEED016-3C80-4A0D-9659-6FFCA2B9D970/dc/852ee15b/FFmpegWrapper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Views/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8BEED016-3C80-4A0D-9659-6FFCA2B9D970/75/8c8bfb9f/MediaFormat.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Services/VideoHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3F4F0BD-3D46-4006-8261-19C7CD9ECC5A/f2/050a9d88/IHostingEnvironment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.LongAudio/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C79F7E22-A148-4D14-8B89-001F9DFAA4F0/45/RepeatedField.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB627C24-088B-4E56-8BD2-455727892AB1/1C/StorageClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText/Recognize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText/GoogleConstant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText/InfiniteStreaming.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/56C1FBAA-ADF8-426A-91DB-87B46E8C8EAF/30/1055bb94/TimeSpan.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8BEED016-3C80-4A0D-9659-6FFCA2B9D970/cf/08986096/IConversion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/47BADD0F-403C-41DC-9AE2-1FE9FC0DD0F6/e0/a4c2750c/ParserResultExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText/GoogleCloudStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64624229-2D26-42D8-99CA-F9A6A8386F99/51/1b637197/ILogger`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Domain/TempDataExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Models/LongAudioViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Models/ResultViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/503557EA-2300-465E-B59C-87E1183E58F6/47/deb384bb/FFMpegConverter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GetDuration/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D6DDB55C-6B68-4709-9C2C-C0B42E7D4904/1/CloudSpeech.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpeechToText.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VideoConverter.FullNet/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SpeechToText/SpeechToText.csproj" />
+        <option value="$PROJECT_DIR$/SpeechToText.LongAudio/InfiniteStreaming.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.LongAudio/Recognize.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText/InfiniteStreaming.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Models/ViewModel.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Models/LongAudioViewModel.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Domain/TempDataExtensions.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Models/ResultViewModel.cs" />
+        <option value="$PROJECT_DIR$/VideoConverter/Class1.cs" />
+        <option value="$PROJECT_DIR$/VideoConverter/VideoConverter.csproj" />
+        <option value="$PROJECT_DIR$/VideoConverter.FullNet/Program.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.LongAudio/Program.cs" />
+        <option value="$PROJECT_DIR$/VideoConverter/Conversion.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText/GoogleConstant.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText/GoogleCloudStorage.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText/Recognize.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/wwwroot/css/site.css" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/wwwroot/js/site.js" />
+        <option value="$PROJECT_DIR$/GetDuration/Program.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Services/VideoHelper.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/VideoConverter/VideoConverter.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Views/Home/Player.cshtml.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Pages/Player/Index.cshtml" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Views/Player/Index.cshtml.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Views/Home/Player.cshtml" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Startup.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Views/Player/Index.cshtml" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Models/PlayerViewModel.cs" />
+        <option value="$PROJECT_DIR$/SpeechToText.Web/Controllers/PlayerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TCKLrERNwPU1FTXOAlARcs5FKt" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/VideoConverter.FullNet/a.mp4" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.SpeechToText.Web">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SpeechToText.LongAudio/bin/Debug/netcoreapp3.0/SpeechToText.LongAudio.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SpeechToText.LongAudio/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SpeechToText.LongAudio/SpeechToText.LongAudio.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpeechToText.Web" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SpeechToText.Web/bin/Debug/netcoreapp3.0/SpeechToText.Web.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SpeechToText.Web" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SpeechToText.Web/SpeechToText.Web.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" start="true" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoConverter.FullNet" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/VideoConverter.FullNet/VideoConverter.FullNet.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="get duration" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/GetDuration/bin/Debug/netcoreapp3.0/GetDuration.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GetDuration/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GetDuration/GetDuration.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.SpeechToText.Web" />
+      <item itemvalue=".NET Project.get duration" />
+      <item itemvalue=".NET Project.VideoConverter.FullNet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.VideoConverter.FullNet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="434f6f21-18b4-4ae1-b5b5-545f69c6af2f" name="Default Changelist" comment="" />
+      <created>1572958586275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572958586275</updated>
+      <workItem from="1572958589958" duration="6171000" />
+      <workItem from="1573005642155" duration="1043000" />
+      <workItem from="1573031855682" duration="13915000" />
+      <workItem from="1573057984008" duration="1149000" />
+      <workItem from="1573101087422" duration="5912000" />
+      <workItem from="1573125413335" duration="1361000" />
+      <workItem from="1573196955124" duration="14572000" />
+      <workItem from="1573265586761" duration="6997000" />
+      <workItem from="1573556494777" duration="1414000" />
+      <workItem from="1573575800529" duration="2712000" />
+      <workItem from="1574257786158" duration="14304000" />
+      <workItem from="1574473210306" duration="143000" />
+      <workItem from="1574473524182" duration="1319000" />
+      <workItem from="1574653238189" duration="731000" />
+      <workItem from="1574858659145" duration="7735000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SpeechToText/GoogleCloudStorage.cs</url>
+          <line>15</line>
+          <properties documentPath="$PROJECT_DIR$/SpeechToText/GoogleCloudStorage.cs" initialLine="14">
+            <startOffsets>
+              <option value="428" />
+            </startOffsets>
+            <endOffsets>
+              <option value="478" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/VideoConverter/VideoConverter.cs</url>
+          <line>50</line>
+          <properties documentPath="$PROJECT_DIR$/VideoConverter/VideoConverter.cs" initialLine="32">
+            <startOffsets>
+              <option value="1477" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1478" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SpeechToText/GoogleCloudStorage.cs</url>
+          <line>39</line>
+          <properties documentPath="$PROJECT_DIR$/SpeechToText/GoogleCloudStorage.cs" initialLine="40">
+            <startOffsets>
+              <option value="1304" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1305" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

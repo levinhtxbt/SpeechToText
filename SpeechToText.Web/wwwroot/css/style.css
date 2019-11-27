@@ -1,0 +1,59 @@
+header{
+    margin-bottom: 30px;
+    background: #f7f7f7;
+    box-shadow: 0 1px 1px #eee;
+}
+
+header a.nav-link{
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.lyric{
+    margin-top: 22px;
+    text-align: justify;
+}
+
+.highlight{
+    background: #b4ff00;
+}
+
+.plyr{
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.list-timeline .item{
+    margin-top: 15px;
+    float: left;
+}
+
+.list-timeline .item img{
+    width: 135px;
+    height: 100%;
+    float: left;
+    object-fit: cover;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    transition: all .7s;
+}
+
+.list-timeline .item .caption{
+    float: left;
+    margin-left: 10px;
+}
+
+.list-timeline .item .caption a{
+    margin-bottom: 0;
+}
+
+.list-timeline .item .caption time{
+    color: #a0a0a0;
+    font-size: 12px;
+    font-weight: 400;
+    text-overflow: ellipsis;
+    display: block;
+}

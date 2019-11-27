@@ -1,0 +1,130 @@
+﻿@model PlayerViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="hadesker">
+
+    <title>Page Title</title>
+    <link href="~/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.5.6/plyr.css"/>
+    <link rel="stylesheet" href="~/css/style.css">
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body >
+<header class="">
+    <div class="container">
+        <nav class="nav">
+            <a class="nav-link active" href="#">TRANG CHỦ</a>
+            <a class="nav-link" href="#">GIỚI THIỆU</a>
+            <a class="nav-link" href="#">QUẢN LÝ CÔNG VĂN</a>
+        </nav>
+    </div>
+</header>
+<div class="container">
+    <div class="row">
+        <div class="col-8">
+
+            <div class="Upload">
+                <form method="post" enctype="multipart/form-data" asp-controller="Player" asp-action="Index">
+                    <div class="input-group mb-3">
+                        <div class="custom-file">
+                            <input type="file" name="file" class="custom-file-input" id="inputGroupFile01" multiple/>
+                            <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+                        </div>
+                        <div class="input-group-append">
+                            <input type="submit" class="input-group-text" value="Upload"/>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="video">
+                <video id="player" playsinline controls>
+                    <source src="@Model.MediaUrl" type="video/mp4"/>
+                </video>
+            </div>
+            <div class="lyric">
+                <p>@Html.Raw(string.Join("<br/>", Model.Transcripts.Select(x => x.Content).ToList()))</p>
+            </div>
+
+        </div>
+        <div class="col-4">
+            <div class="timeline">
+                <h5>Các chương trình</h5>
+                <div class="list-timeline">
+                    <div class="item">
+                        <a href="">
+                            <img src="https://photo-resize-zmp3.zadn.vn/w240_r16x9_jpeg/thumb_video/8/2/b/7/82b7f655f25e2bafa46aaa0fa03d9a3d.jpg" alt="">
+                        </a>
+                        <div class="caption">
+                            <a href="">Chương trình 1</a>
+                            <time>01:10:20</time>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <a href="">
+                            <img src="https://photo-resize-zmp3.zadn.vn/w240_r16x9_jpeg/thumb_video/8/2/b/7/82b7f655f25e2bafa46aaa0fa03d9a3d.jpg" alt="">
+                        </a>
+                        <div class="caption">
+                            <a href="">Chương trình 1</a>
+                            <time>01:10:20</time>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <a href="">
+                            <img src="https://photo-resize-zmp3.zadn.vn/w240_r16x9_jpeg/thumb_video/8/2/b/7/82b7f655f25e2bafa46aaa0fa03d9a3d.jpg" alt="">
+                        </a>
+                        <div class="caption">
+                            <a href="">Chương trình 1</a>
+                            <time>01:10:20</time>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <a href="">
+                            <img src="https://photo-resize-zmp3.zadn.vn/w240_r16x9_jpeg/thumb_video/8/2/b/7/82b7f655f25e2bafa46aaa0fa03d9a3d.jpg" alt="">
+                        </a>
+                        <div class="caption">
+                            <a href="">Chương trình 1</a>
+                            <time>01:10:20</time>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <a href="">
+                            <img src="https://photo-resize-zmp3.zadn.vn/w240_r16x9_jpeg/thumb_video/8/2/b/7/82b7f655f25e2bafa46aaa0fa03d9a3d.jpg" alt="">
+                        </a>
+                        <div class="caption">
+                            <a href="">Chương trình 1</a>
+                            <time>01:10:20</time>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <a href="">
+                            <img src="https://photo-resize-zmp3.zadn.vn/w240_r16x9_jpeg/thumb_video/8/2/b/7/82b7f655f25e2bafa46aaa0fa03d9a3d.jpg" alt="">
+                        </a>
+                        <div class="caption">
+                            <a href="">Chương trình 1</a>
+                            <time>01:10:20</time>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="~/js/bootstrap.min.js"></script>
+<script src="https://cdn.plyr.io/3.5.6/plyr.polyfilled.js"></script>
+<script src="~/js/main.js"></script>
+</body>
+</html>

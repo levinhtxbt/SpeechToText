@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+    </PropertyGroup>
+
+
+    <ItemGroup>
+      <Folder Include="wwwroot\uploads" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <ProjectReference Include="..\SpeechToText\SpeechToText.csproj" />
+      <ProjectReference Include="..\VideoConverter\VideoConverter.csproj" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Pages\Player\Index.cshtml" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\virus\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\virus\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_SpeechToText.402879725.00" t="ExcludeRecursive" />
+    <e p="D:\DotNetCore\SpeechToText" t="IncludeFlat">
+      <e p="GetDuration" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GetDuration.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="GetDuration.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SpeechToText" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GoogleCloudStorage.cs" t="Include" />
+        <e p="GoogleConstant.cs" t="Include" />
+        <e p="InfiniteStreaming.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="SpeechToText.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Recognize.cs" t="Include" />
+        <e p="SpeechToText.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="SpeechToText.LongAudio" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="SpeechToText.LongAudio.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SpeechToText.LongAudio.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="SpeechToText.sln" t="IncludeFlat" />
+      <e p="SpeechToText.Web" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+        </e>
+        <e p="Domain" t="Include">
+          <e p="TempDataExtensions.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="ErrorViewModel.cs" t="Include" />
+          <e p="LongAudioViewModel.cs" t="Include" />
+          <e p="PlayerViewModel.cs" t="Include" />
+          <e p="ResultViewModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="SpeechToText.Web.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="VideoHelper.cs" t="Include" />
+        </e>
+        <e p="SpeechToText.Web.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+            <e p="Privacy.cshtml" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="bootstrap.min.css" t="Include" />
+            <e p="site.css" t="Include" />
+            <e p="style.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="js" t="Include">
+            <e p="bootstrap.min.js" t="Include" />
+            <e p="main.js" t="Include" />
+            <e p="site.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-grid.css" t="Include" />
+                  <e p="bootstrap-grid.css.map" t="Include" />
+                  <e p="bootstrap-grid.min.css" t="Include" />
+                  <e p="bootstrap-grid.min.css.map" t="Include" />
+                  <e p="bootstrap-reboot.css" t="Include" />
+                  <e p="bootstrap-reboot.css.map" t="Include" />
+                  <e p="bootstrap-reboot.min.css" t="Include" />
+                  <e p="bootstrap-reboot.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.bundle.js" t="Include" />
+                  <e p="bootstrap.bundle.js.map" t="Include" />
+                  <e p="bootstrap.bundle.min.js" t="Include" />
+                  <e p="bootstrap.bundle.min.js.map" t="Include" />
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.js.map" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="bootstrap.min.js.map" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE" t="Include" />
+            </e>
+            <e p="jquery" t="Include">
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.min.map" t="Include" />
+              </e>
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+            <e p="jquery-validation" t="Include">
+              <e p="dist" t="Include">
+                <e p="additional-methods.js" t="Include" />
+                <e p="additional-methods.min.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+                <e p="jquery.validate.min.js" t="Include" />
+              </e>
+              <e p="LICENSE.md" t="Include" />
+            </e>
+            <e p="jquery-validation-unobtrusive" t="Include">
+              <e p="jquery.validate.unobtrusive.js" t="Include" />
+              <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+          <e p="uploads" t="Include">
+            <e p="input.mp4" t="Include" />
+            <e p="input.mp4-27112019222155-1.wav" t="Include" />
+            <e p="input.mp4-27112019222155-2.wav" t="Include" />
+            <e p="input.mp4-27112019222156-3.wav" t="Include" />
+            <e p="input.mp4-27112019222156-4.wav" t="Include" />
+            <e p="input.mp4-27112019222157-5.wav" t="Include" />
+            <e p="input.mp4-27112019222157-6.wav" t="Include" />
+            <e p="input.mp4-27112019222158-7.wav" t="Include" />
+            <e p="input.mp4-27112019222159-8.wav" t="Include" />
+            <e p="input.mp4-27112019222159-9.wav" t="Include" />
+            <e p="input.mp4-27112019222200-10.wav" t="Include" />
+            <e p="input.mp4-27112019222201-11.wav" t="Include" />
+            <e p="input.mp4-27112019222202-12.wav" t="Include" />
+            <e p="input.mp4-27112019222203-13.wav" t="Include" />
+            <e p="input.mp4-27112019222204-14.wav" t="Include" />
+            <e p="input.mp4-27112019222205-15.wav" t="Include" />
+            <e p="input.mp4-27112019222206-16.wav" t="Include" />
+            <e p="input.mp4-27112019222207-17.wav" t="Include" />
+            <e p="input.mp4-27112019222208-18.wav" t="Include" />
+            <e p="input.mp4-27112019222209-19.wav" t="Include" />
+            <e p="input.mp4-27112019222210-20.wav" t="Include" />
+            <e p="input.mp4-27112019222211-21.wav" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="VideoConverter" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Conversion.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="VideoConverter.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="VideoConverter.cs" t="Include" />
+        <e p="VideoConverter.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
